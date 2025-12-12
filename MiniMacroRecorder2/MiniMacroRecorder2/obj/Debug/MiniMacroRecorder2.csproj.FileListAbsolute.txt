@@ -1,0 +1,10 @@
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\bin\Debug\MiniMacroRecorder2.exe.config
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\bin\Debug\MiniMacroRecorder2.exe
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\bin\Debug\MiniMacroRecorder2.pdb
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.exe
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.pdb
+C:\Users\Yusuf\Desktop\MiniMacroRecorder2\MiniMacroRecorder2\obj\Debug\MiniMacroRecorder2.exe.config
